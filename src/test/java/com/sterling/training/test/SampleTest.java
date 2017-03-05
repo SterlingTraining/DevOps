@@ -71,13 +71,13 @@ public class SampleTest {
 
 		assertFalse(result);
 	}
-
+//added comment
 	@Ignore
 	@Test
 	public void testSubstraction() {
 		int result = 10 - 3;
 
-		assertTrue(result == 8);
+		assertTrue(result == 7);
 	}
 
 }
