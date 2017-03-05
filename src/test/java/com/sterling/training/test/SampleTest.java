@@ -77,7 +77,7 @@ public class SampleTest {
 	public void testSubstraction() {
 		int result = 10 - 3;
 
-		assertTrue(result == 9);
+		assertTrue(result == 8);
 	}
 
 }
